@@ -1,0 +1,2 @@
+- hello, i'm exovrt
+- ![GitHub followers](https://img.shields.io/github/followers/exovrt)
